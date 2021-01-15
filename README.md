@@ -1,2 +1,2 @@
-# discord-lvl-canvas \n
+# discord-lvl-canvas
 Your Discord Bot with lvl system
