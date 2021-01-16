@@ -1,5 +1,5 @@
 {
   "token":"<Your owner bot token>",
-  "prefix":"r!",
+  "prefix":"!",
   "img-url":"<Your URL Image>"
 }
